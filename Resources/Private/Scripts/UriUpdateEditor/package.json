@@ -1,0 +1,16 @@
+{
+    "scripts": {
+        "build": "neos-react-scripts build",
+        "watch": "neos-react-scripts watch"
+    },
+    "neos": {
+        "buildTargetDirectory": "../../../Public/UriUpdateEditor"
+    },
+    "devDependencies": {
+        "@neos-project/neos-ui-extensibility": "*"
+    },
+    "dependencies": {
+        "@sindresorhus/slugify": "*",
+        "lodash.unescape": "^4.0.1"
+    }
+}

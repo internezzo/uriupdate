@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "type": "neos-package",
+    "name": "internezzo/uriupdate",
+    "require": {
+        "neos/neos": "*",
+        "neos/neos-ui": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Internezzo\\UriUpdate\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Internezzo.UriUpdate"
+        }
+    }
+}

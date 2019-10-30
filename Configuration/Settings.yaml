@@ -1,0 +1,12 @@
+Neos:
+  Neos:
+    userInterface:
+      translation:
+        autoInclude:
+          Internezzo.UriUpdate:
+            - Main
+    Ui:
+      resources:
+        javascript:
+          "Internezzo.UriUpdate:UriUpdateEditor":
+            resource: resource://Internezzo.UriUpdate/Public/UriUpdateEditor/Plugin.js

@@ -1,0 +1,8 @@
+Neos.Neos:Document:
+  properties:
+    uriPathSegment:
+      ui:
+        inspector:
+          editor: "Internezzo.UriUpdate/UriUpdateEditor"
+          editorOptions:
+            title: "ClientEval:node.properties.title"
