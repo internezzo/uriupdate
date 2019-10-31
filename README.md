@@ -1,6 +1,6 @@
 # Internezzo.UriUpdate
 
-Adds a syncronize buttton to the uriPathSegment inspector editor.
+Adds a syncronize button to the uriPathSegment inspector editor.
 
 ## Usage
 
