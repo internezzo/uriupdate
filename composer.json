@@ -1,9 +1,9 @@
 {
-    "description": "",
+    "description": "Adds a syncronize buttton to the uriPathSegment inspector editor.",
     "type": "neos-package",
     "name": "internezzo/uriupdate",
     "require": {
-        "neos/neos": "*",
+        "neos/neos": ">=3.3",
         "neos/neos-ui": "*"
     },
     "autoload": {
@@ -15,5 +15,8 @@
         "neos": {
             "package-key": "Internezzo.UriUpdate"
         }
-    }
+    },
+    "license": [
+        "GPL-3.0-or-later"
+    ]
 }
